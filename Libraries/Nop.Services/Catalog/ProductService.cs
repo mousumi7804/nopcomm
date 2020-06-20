@@ -628,6 +628,58 @@ namespace Nop.Services.Catalog
 
         #region Products
 
+        //MM - added
+        public virtual Product GetPreviousProductSeName(Product product)
+        {
+            Product ret = new Product();
+
+            try
+            {
+                string sql = @"select top 1 p.* from product p inner join product_category_mapping pc on p.id = pc.productid
+                            where (select categoryid from product_category_mapping where productid=" + product.Id + ")=pc.categoryid" +
+                            " and p.id < " + product.Id +
+                            " order by p.id desc";
+
+
+                var itmprod = _dbContext.SqlQuery<Product>(sql);
+                var plist = itmprod.ToList<Product>();
+                if (plist != null && plist.Count > 0)
+                    ret = (Product)plist[0];
+            }
+            catch (Exception ex)
+            {
+
+            }
+
+            return ret;
+        }
+
+        //MM - added
+        public virtual Product GetNextProductSeName(Product product)
+        {
+            Product ret = new Product();
+
+            try
+            {
+                string sql = @"select top 1 * from product p inner join product_category_mapping pc on p.id = pc.productid
+                            where (select categoryid from product_category_mapping where productid=" + product.Id + ")= pc.categoryid" +
+                            " and p.id > " + product.Id +
+                            " order by p.id";
+
+                var itmprod = _dbContext.SqlQuery<Product>(sql);
+                var plist = itmprod.ToList<Product>();
+                if (plist != null && plist.Count > 0)
+                    ret = (Product)plist[0];
+
+            }
+            catch (Exception ex)
+            {
+
+            }
+
+            return ret;
+        }
+
         /// <summary>
         /// Delete a product
         /// </summary>

@@ -273,6 +273,10 @@ namespace Nop.Services.Catalog
         /// <returns>Number of products</returns>
         int GetNumberOfProductsByVendorId(int vendorId);
 
+        //MM - added
+        Product GetPreviousProductSeName(Product productid);
+        Product GetNextProductSeName(Product productid);
+
         #endregion
 
         #region Inventory management methods

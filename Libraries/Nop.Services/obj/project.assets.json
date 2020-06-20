@@ -8127,11 +8127,11 @@
   "project": {
     "version": "4.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Services\\Nop.Services.csproj",
+      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Services\\Nop.Services.csproj",
       "projectName": "Nop.Services",
-      "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Services\\Nop.Services.csproj",
+      "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Services\\Nop.Services.csproj",
       "packagesPath": "C:\\Users\\raja da\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Services\\obj\\",
+      "outputPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8150,11 +8150,11 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Core\\Nop.Core.csproj"
             },
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Data\\Nop.Data.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Data\\Nop.Data.csproj"
             }
           }
         }
