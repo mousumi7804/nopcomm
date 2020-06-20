@@ -172,6 +172,16 @@ namespace Nop.Web.Controllers
 
             //model
             var model = _productModelFactory.PrepareProductDetailsModel(product, updatecartitem, false);
+
+            //MM - get previous and next products for navigation
+            Product pr = _productService.GetPreviousProductSeName(product);
+            if (pr != null && pr.Id > 0)
+                model.PrevSeName = pr.GetSeName();
+
+            pr = _productService.GetNextProductSeName(product);
+            if (pr != null && pr.Id > 0)
+                model.NextSeName = pr.GetSeName();
+
             //template
             var productTemplateViewPath = _productModelFactory.PrepareProductTemplateViewPath(product);
 

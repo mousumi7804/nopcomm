@@ -8264,11 +8264,11 @@
   "project": {
     "version": "4.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
+      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
       "projectName": "Nop.Web.Framework",
-      "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
+      "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
       "packagesPath": "C:\\Users\\raja da\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Presentation\\Nop.Web.Framework\\obj\\",
+      "outputPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Presentation\\Nop.Web.Framework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8287,14 +8287,14 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Core\\Nop.Core.csproj"
             },
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Data\\Nop.Data.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Data\\Nop.Data.csproj"
             },
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Services\\Nop.Services.csproj"
             }
           }
         }

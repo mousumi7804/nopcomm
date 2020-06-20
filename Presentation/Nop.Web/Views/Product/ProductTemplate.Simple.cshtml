@@ -44,9 +44,20 @@
 }
 <!--product breadcrumb-->
 @section Breadcrumb
-{
+    {
     @await Html.PartialAsync("_ProductBreadcrumb", Model.Breadcrumb)
 }
+@*MM - added next and prev*@
+<div>
+    @if (Model.PrevSeName != null && Model.PrevSeName != "")
+    {
+        <a href="@Url.RouteUrl("Product", new { SeName = Model.PrevSeName })" title="Prev">Prev</a>
+    }
+    @if (Model.NextSeName != null && Model.NextSeName != "")
+    {
+        <a href="@Url.RouteUrl("Product", new { SeName = Model.NextSeName })" title="Next">Next</a>
+    }
+</div>
 @await Component.InvokeAsync("Widget", new { widgetZone = "productdetails_after_breadcrumb", additionalData = Model.Id })
 <div class="page product-details-page">
     <div class="page-body">
@@ -140,10 +151,10 @@
                 <div class="product-collateral">
                     @*MM - commented 4 lines*@
                     @*@await Html.PartialAsync("_ProductSpecifications", Model.ProductSpecifications)
-                    @await Html.PartialAsync("_ProductTags", Model.ProductTags)*@
+                        @await Html.PartialAsync("_ProductTags", Model.ProductTags)*@
                 </div>
                 @*@await Component.InvokeAsync("ProductsAlsoPurchased", new { productId = Model.Id })
-                @await Component.InvokeAsync("RelatedProducts", new { productId = Model.Id })*@
+                    @await Component.InvokeAsync("RelatedProducts", new { productId = Model.Id })*@
             </div>
         </form>
         @await Component.InvokeAsync("Widget", new { widgetZone = "productdetails_bottom", additionalData = Model.Id })
