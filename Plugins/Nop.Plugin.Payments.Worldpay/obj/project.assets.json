@@ -8332,11 +8332,11 @@
   "project": {
     "version": "3.10.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Payments.Worldpay\\Nop.Plugin.Payments.Worldpay.csproj",
+      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Payments.Worldpay\\Nop.Plugin.Payments.Worldpay.csproj",
       "projectName": "Nop.Plugin.Payments.Worldpay",
-      "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Payments.Worldpay\\Nop.Plugin.Payments.Worldpay.csproj",
+      "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Payments.Worldpay\\Nop.Plugin.Payments.Worldpay.csproj",
       "packagesPath": "C:\\Users\\raja da\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Payments.Worldpay\\obj\\",
+      "outputPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Payments.Worldpay\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8355,8 +8355,8 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Presentation\\Nop.Web\\Nop.Web.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Presentation\\Nop.Web\\Nop.Web.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Presentation\\Nop.Web\\Nop.Web.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Presentation\\Nop.Web\\Nop.Web.csproj"
             }
           }
         }

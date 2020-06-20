@@ -8312,11 +8312,11 @@
   "project": {
     "version": "2.22.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Payments.PayPalDirect\\Nop.Plugin.Payments.PayPalDirect.csproj",
+      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Payments.PayPalDirect\\Nop.Plugin.Payments.PayPalDirect.csproj",
       "projectName": "Nop.Plugin.Payments.PayPalDirect",
-      "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Payments.PayPalDirect\\Nop.Plugin.Payments.PayPalDirect.csproj",
+      "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Payments.PayPalDirect\\Nop.Plugin.Payments.PayPalDirect.csproj",
       "packagesPath": "C:\\Users\\raja da\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Payments.PayPalDirect\\obj\\",
+      "outputPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Payments.PayPalDirect\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8335,8 +8335,8 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

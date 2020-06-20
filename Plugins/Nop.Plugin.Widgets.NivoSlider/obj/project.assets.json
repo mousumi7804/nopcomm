@@ -8282,11 +8282,11 @@
   "project": {
     "version": "1.23.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Widgets.NivoSlider\\Nop.Plugin.Widgets.NivoSlider.csproj",
+      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Widgets.NivoSlider\\Nop.Plugin.Widgets.NivoSlider.csproj",
       "projectName": "Nop.Plugin.Widgets.NivoSlider",
-      "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Widgets.NivoSlider\\Nop.Plugin.Widgets.NivoSlider.csproj",
+      "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Widgets.NivoSlider\\Nop.Plugin.Widgets.NivoSlider.csproj",
       "packagesPath": "C:\\Users\\raja da\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Widgets.NivoSlider\\obj\\",
+      "outputPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Widgets.NivoSlider\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8305,8 +8305,8 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

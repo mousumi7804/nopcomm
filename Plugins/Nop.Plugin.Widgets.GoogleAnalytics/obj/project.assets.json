@@ -8282,11 +8282,11 @@
   "project": {
     "version": "1.37.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\Nop.Plugin.Widgets.GoogleAnalytics.csproj",
+      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\Nop.Plugin.Widgets.GoogleAnalytics.csproj",
       "projectName": "Nop.Plugin.Widgets.GoogleAnalytics",
-      "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\Nop.Plugin.Widgets.GoogleAnalytics.csproj",
+      "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\Nop.Plugin.Widgets.GoogleAnalytics.csproj",
       "packagesPath": "C:\\Users\\raja da\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\obj\\",
+      "outputPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8305,8 +8305,8 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

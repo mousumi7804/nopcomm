@@ -6797,11 +6797,11 @@
   "project": {
     "version": "4.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
+      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
       "projectName": "Nop.Core.Tests",
-      "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
+      "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
       "packagesPath": "C:\\Users\\raja da\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Tests\\Nop.Core.Tests\\obj\\",
+      "outputPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Tests\\Nop.Core.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6820,11 +6820,11 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Core\\Nop.Core.csproj"
             },
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Tests\\Nop.Tests\\Nop.Tests.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Tests\\Nop.Tests\\Nop.Tests.csproj"
             }
           }
         }

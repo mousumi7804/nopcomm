@@ -8145,11 +8145,11 @@
   "project": {
     "version": "1.21.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
+      "projectUniqueName": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
       "projectName": "Nop.Plugin.ExchangeRate.EcbExchange",
-      "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
+      "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
       "packagesPath": "C:\\Users\\raja da\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\obj\\",
+      "outputPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8168,8 +8168,8 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-              "projectPath": "D:\\dotnet\\freelancer-benjamin\\nopCommerce-release-4.00\\src\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "D:\\dotnet\\freelancer-benjamin\\gitcode\\nopcomm\\Libraries\\Nop.Services\\Nop.Services.csproj"
             }
           }
         }
