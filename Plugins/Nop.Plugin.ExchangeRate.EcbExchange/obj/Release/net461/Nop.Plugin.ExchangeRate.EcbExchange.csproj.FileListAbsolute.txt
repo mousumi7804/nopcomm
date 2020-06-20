@@ -1,0 +1,11 @@
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\plugin.json
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Release\net461\Nop.Plugin.ExchangeRate.EcbExchange.csprojAssemblyReference.cache
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Release\net461\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CoreCompileInputs.cache
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Release\net461\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfoInputs.cache
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Release\net461\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfo.cs
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Release\net461\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CopyComplete
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Release\net461\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Release\net461\Nop.Plugin.ExchangeRate.EcbExchange.pdb

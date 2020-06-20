@@ -1,0 +1,12 @@
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Presentation\Nop.Web\Plugins\Shipping.Fedex\plugin.json
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Presentation\Nop.Web\Plugins\Shipping.Fedex\Views\Configure.cshtml
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Presentation\Nop.Web\Plugins\Shipping.Fedex\Views\_ViewImports.cshtml
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Presentation\Nop.Web\Plugins\Shipping.Fedex\logo.jpg
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.csproj.CoreCompileInputs.cache
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.AssemblyInfoInputs.cache
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.AssemblyInfo.cs
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.csproj.CopyComplete
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.dll
+D:\dotnet\freelancer-benjamin\nopCommerce-release-4.00\src\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.pdb
